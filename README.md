@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MazlumH
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning JavaScript/React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me info@masi-web.ch
